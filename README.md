@@ -15,3 +15,4 @@ void MainFrame::OnCloseFrame(wxCloseEvent& event) {
     Destroy();
 }
 ```
+https://wiki.wxwidgets.org/Netbeans
