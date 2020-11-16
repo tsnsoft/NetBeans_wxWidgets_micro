@@ -1,5 +1,6 @@
-# NetBeans_wxWidgets_Div2_demo
-Пример простейшей визуальной программы с wxWidgets на C++ в NetBeans с использованием wxFormBuilder для Linux
+# NetBeans_wxWidgets_micro
+Пример простейшей визуальной программы с wxWidgets на C++ в NetBeans 
+с использованием wxFormBuilder для Linux
 
 ![srcreenshot](screenshot.png)
 
